@@ -1,5 +1,5 @@
 ### About
-:a
+
 - 👋 Hi, I´m Giovani @Giuberti;
 - 🗺️ I am from Belo Horizonte, 🇧🇷
 - 🌱 I´m a javascript, C# and transact-SQL guy 🥇. Started my carrer on frontend, but live made me a backend engenner and architect thru time;
