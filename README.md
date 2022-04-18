@@ -12,22 +12,20 @@
 
 - 🗺️ I'm from Belo Horizonte, 🇧🇷
 - System Architect, Systems Enginner, and also a Project Mannager;
-- At this moment, I´m am as a specialist on ATM and fraud prevetion systems;
-- Started my carrer on frontend, but life made me a backend engenner and architect thru time;
+- At this moment, I´m as Fullstack .NET App Engeneer on a global company;
+- Started my carrer on frontend, but life, and projects, made me a backend engenner and architect thru time;
 - I communicate in portuguese, english and spanish.
 - I´m still working on my personal code here. It´s far to be done. Do not repare the mess 👀...
 
 #### 🥇 Gold Medal Skills
   
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-Framework%204.7.8-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/.NET-Core%203.1-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/Framework%204.7.8-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/Core%203.1-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -54,22 +52,22 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/6-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/AWS-343434?style=flat&logo=amazon&logoColor=white)
 
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Pascal-00599C?style=flat&logo=pascal%2B%2B&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 ![](https://aleen42.github.io/badges/src/illustrator.svg)
 
 #### 🥉 Bronze Medal Skills</summary>
 
-![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
-![](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
+![](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
 
