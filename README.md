@@ -10,7 +10,7 @@
 [![Protonmail](https://img.shields.io/badge/ProtonMail-Mail%20Me-informational?style=flat&logo=protonmail&logoColor=white&color=8B89CC)](mailto:giuberti@protonmail.com)
 [![Public Spotify Playlists](https://img.shields.io/badge/Spotify-Public%20Playlists-informational?&style=flat&logo=spotify&logoColor=white&color=1ED760)](https://open.spotify.com/user/giuberti/playlists)
 
-- 🗺️ I'm from Belo Horizonte, 🇧🇷
+- 🗺️ I's born in Vitoria, lived in Belo Horizonte 🇧🇷, for many many years and now I'm living in Leiria :portugal:;
 - System Architect, Systems Enginner, and also a Project Mannager;
 - At this moment, I´m as Fullstack .NET App Engeneer on a global company;
 - Started my carrer on frontend, but life, and projects, made me a backend engenner and architect thru time;
