@@ -1,5 +1,6 @@
 ### About
 ![@giuberti](/resources/img/banner.png)
+
 <!---
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
@@ -18,7 +19,8 @@
 - I´m still working on my personal code here. It´s far to be done. Do not repare the mess 👀...
 
 #### 🥇 Gold Medal Skills
-  
+![AZ-900 Badge](/resources/img/microsoft-certified-azure-fundamentals.png)
+
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Framework%204.7.8-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Core%203.1-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
