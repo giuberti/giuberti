@@ -1,5 +1,5 @@
 ### About
-![@giuberti](/resources/img/banner.png)
+![@giuberti](/resources/img/banner-2.png)
 
 <!---
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
@@ -19,7 +19,11 @@
 - I´m still working on my personal code here. It´s far to be done. Do not repare the mess 👀...
 
 #### 🥇 Gold Medal Skills
-![AZ-900 Badge](/resources/img/microsoft-certified-azure-fundamentals.png)
+
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+![AZ-900 Badge](/resources/img/microsoft-certified-azure-fundamentals-small.png)
+![DP-900 Badge](/resources/img/microsoft-certified-azure-data-fundamentals-small.png)
 
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Framework%204.7.8-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
@@ -34,7 +38,6 @@
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
