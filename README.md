@@ -13,10 +13,10 @@
 
 - 🗺️ I's born in Vitoria, lived in Belo Horizonte 🇧🇷, for many many years and now I'm living in Leiria :portugal:;
 - System Architect, Systems Enginner, and also a Project Mannager;
-- At this moment, I´m as Fullstack .NET App Engeneer on a global company;
+- At this moment, I´m a Integration Consultant for a Dutch Project;
 - Started my carrer on frontend, but life, and projects, made me a backend engenner and architect thru time;
 - I communicate in portuguese, english and spanish.
-- I´m still working on my personal code here. It´s far to be done. Do not repare the mess 👀...
+- I´m still working on my personal code here. It´s far to be done. Please, do not repare the mess 👀...
 
 #### 🥇 Gold Medal Skills
 
@@ -24,6 +24,8 @@
 
 ![AZ-900 Badge](/resources/img/microsoft-certified-azure-fundamentals-small.png)
 ![DP-900 Badge](/resources/img/microsoft-certified-azure-data-fundamentals-small.png)
+![AI-900 Badge](https://github.com/user-attachments/assets/9a1cec05-c373-41d4-b4f8-050d47aef276)
+
 
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Framework%204.7.8-informational?style=flat&logo=.net&logoColor=white&color=5C2D91)
@@ -37,6 +39,7 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)
 
 
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
